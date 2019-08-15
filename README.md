@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to VPEND
 
 You can use the [editor on GitHub](https://github.com/littlejeon/vpend-app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
