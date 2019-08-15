@@ -3,20 +3,11 @@
 Will add some text here later...
 
 ### Mac
-
-```markdown
-
 - [Version 1.0.0](https://drive.google.com/file/d/1eyDRSfjbilKriQjOGsD6T9wn6j4Z1fYA/view?usp=sharing)
 
-```
-
 ### PC
-
-```markdown
-
 - [Version 1.0.0](https://drive.google.com/open?id=1hXCdAkTBwkrFwJwqduvzJXPVAuqNwO1K)
 
-```
 
 ### Support or Contact
 
