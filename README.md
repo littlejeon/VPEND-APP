@@ -3,10 +3,10 @@
 Will add some text here later...
 
 ### Mac
-- [Mac Version 1.0.0](https://drive.google.com/file/d/1eyDRSfjbilKriQjOGsD6T9wn6j4Z1fYA/view?usp=sharing)
+- [Mac Version 1.0.0](https://drive.google.com/open?id=1k3w0le4Be7RBknVsE8fxNwcyMxhypqoz)
 
 ### Windows
-- [Windows Version 1.0.0](https://drive.google.com/open?id=1hXCdAkTBwkrFwJwqduvzJXPVAuqNwO1K)
+- [Windows Version 1.0.0](https://drive.google.com/open?id=1GTZMVflwpdxvyWeSaIB5VEuVjw-YDyMT)
 
 
 ### Support or Contact
