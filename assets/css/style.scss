@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+header{
+  background-color:blue;
+}
+
 div{
   border: solid red 1px!important;
 }
