@@ -1,7 +1,3 @@
-## Welcome to VPEND
-
-Will add some text here later...
-
 ### Mac
 - [Mac Version 1.0.0](https://drive.google.com/open?id=1k3w0le4Be7RBknVsE8fxNwcyMxhypqoz)
 
