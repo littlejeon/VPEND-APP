@@ -4,13 +4,15 @@
 @import "{{ site.theme }}";
 
 .page-header{
-  background-color:blue!important;
+  background-color:#ff8a00;
+  background-image:linear-gradient(to left,#ff8a00,#da1b60);
 }
 
-div{
-  border: solid red 1px!important;
-}
-
-h2{
-  color:red;
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6
+  color:#ff8a00;
 }
